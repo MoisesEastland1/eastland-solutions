@@ -1,0 +1,44 @@
+body {
+  background-color: lightgray;
+}
+
+.bg-image {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.testimonial-bg {
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+  width: 100%;
+
+}
+
+.card {
+  box-shadow: 10px 10px rgb(69, 69, 69);
+}
+
+.user-image {
+  box-shadow: 5px 5px rgb(69, 69, 69);
+}
+
+.left-q {
+  color: orange;
+  font-size: 3rem;
+}
+
+
+.right-q {
+  color: orange;
+  font-size: 3rem;
+  display: flex;
+  justify-content: end;
+}
+
+
+
+
+
+
